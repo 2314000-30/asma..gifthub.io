@@ -305,6 +305,12 @@ color: black;
     width: 40%;
     height: 40px;
 }
+#bold{
+    color: white;
+}
+.S1{
+    color: orange;
+}
 #text{
     border-radius: 20px;width: 40%;height: 150px;margin-top: 1%;margin-bottom: 5%;
 }
